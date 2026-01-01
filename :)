@@ -1,0 +1,2 @@
+game.Player.LocalPlayer.Character.Humanoid.Maxhealth = math.huge game.Players.LocalPlayer.Character.Humanoid.WalkSpeed=100
+game.Players.LocalPlayer.Character.Humanoid.jump= 30
